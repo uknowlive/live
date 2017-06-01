@@ -11,19 +11,19 @@
 						<key>kind</key>
 						<string>software-package</string>
 						<key>url</key>
-						<string>https://aigoucai.github.io/zhibo/iphoneLive.ipa</string>
+						<string>https://uknowlive.github.io/live/iphoneLive.ipa</string>
 					</dict>
 					<dict>
 	                    <key>kind</key>
 	                    <string>display-image</string>
 	                    <key>url</key>
-	                    <string>https://aigoucai.github.io/zhibo/icon_57.png</string>
+	                    <string>https://uknowlive.github.io/live/icon_57.png</string>
 	                </dict>
 	                <dict>
 	                    <key>kind</key>
 	                    <string>full-size-image</string>
 	                    <key>url</key>
-	                    <string>https://aigoucai.github.io/zhibo/icon_57.png</string>
+	                    <string>https://uknowlive.github.io/live/icon_57.png</string>
 	                </dict>
 				</array>
 				<key>metadata</key>
